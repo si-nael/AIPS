@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="aips0/aips0.vcxproj" Id="424ef44c-5c31-4271-8377-8d140d8005fe" />
+</Solution>
